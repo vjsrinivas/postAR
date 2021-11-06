@@ -11,6 +11,7 @@
 A VolHack 2021 Project - Projecting a poster or digital item onto a green screen in realtime.
 
 ![The projection feed working on the compute machine](./assets/overview.gif)
+
 **[Video Link](https://www.youtube.com/watch?v=qtkfbua-O0Y)**
 
 ## Requirements
@@ -41,5 +42,5 @@ The last component is a method to find a rectangle from the reduced mask. From t
 
 Since all of this is happening on the laptop, we would want to stream it to the display (a phone) via MJPEG streaming, which just uses a HTML webpage.
 
-**Streaming Example:**
+### Streaming Example:
 ![Demo of phone streaming](./assets/streaming_phone.gif)
