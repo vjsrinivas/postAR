@@ -2,7 +2,7 @@
 
 [![Devpost Badge Time](https://badges.devpost-shields.com/get-badge?name=postAR&id=postar-ajtm7s&type=basic&style=plastic)](https://devpost.com/software/postar-ajtm7s)
 
-### Won "Best Solo Hacker 2nd Place" and "Most Useless"! 😄
+### Won 2 Awards ("Best Solo Hacker 2nd Place" and "Most Useless")! 😄
 
 ---
 
